@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "name": "Rakesh",
+        "age": "21",
+        "department": "BCA",
+        "salary": "60000"
+    },
+    {
+        "id": "2",
+        "name": "Hitesh",
+        "age": "18",
+        "department": "BSC",
+        "salary": "40000"
+    },
+    {
+        "id": "3",
+        "name": "viv",
+        "age": "56",
+        "department": "CSC",
+        "salary": "600"
+    }
+]
