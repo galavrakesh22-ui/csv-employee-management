@@ -1,25 +1,60 @@
-# CSV Employee Management System
+# 📊 CSV Employee Management System (Python)
 
-This is a Python-based automation project that manages employee records using CSV files.
+A Python-based automation project that manages employee records using CSV files.  
+This project is designed for real-world data handling and freelancing use cases.
 
-## Features
-- Add employee
-- View employees
-- Search employee
-- Update employee
-- Delete employee
-- Remove duplicate records
-- Export CSV data to JSON
-- Generate salary report
+---
 
-## Technologies Used
+## 🚀 Features
+
+- ➕ Add new employees
+- 👀 View all employees
+- 🔍 Search employee by ID
+- ✏️ Update employee details
+- ❌ Delete employee records
+- 🧹 Remove duplicate employees (based on ID)
+- 🔄 Export CSV data to JSON
+- 💰 Generate salary reports (total & average)
+
+---
+
+## 🛠️ Technologies Used
+
 - Python
-- CSV
-- JSON
-- File Handling
+- CSV file handling
+- JSON handling
+- File I/O
+- Git & GitHub
 
-## How to Run
-1. Open terminal in project folder
-2. Run:
+---
+
+## 📁 Project Structure
+
+csvproject/
+│
+├── employee_manager.py
+├── employees.csv
+├── employees.json
+└── README.md
+
+
+---
+
+## ▶️ How to Run the Project
+
+1. Clone the repository:
    ```bash
-   python employee_manager.py
+   git clone https://github.com/galavrakesh22-ui/csv-employee-management.git
+
+2. Navigate to the project folder
+cd csv-employee-management
+
+3. Run the program
+python employee_manager.py
+
+
+👤 Author
+
+Rakesh
+GitHub: https://github.com/galavrakesh22-ui
+
